@@ -1,0 +1,57 @@
+
+body {
+    background-color: slategray; 
+    background-image: url("Image/bg1.jpg");
+    background-size: cover; 
+    background-attachment: fixed;
+}
+
+/*mengfont*/
+body,p,td,a {
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+}
+h1 {
+    font-family: 'Urbanist', sans-serif;
+}
+h2 {
+    font-family: 'Oxygen', sans-serif;
+    margin-top: -20px; 
+    color: whitesmoke;
+}
+/*mengfont*/
+
+img {
+    display: block; 
+    border-radius: 5%; 
+    border-color: bisque; 
+    margin-right: 30px; 
+    border: 2px;
+}
+
+.anggota1,.anggota2,.anggota3 {
+    background-color: rgba(255, 255, 255, 0.863);
+    width: 1000px;
+    margin: 20px auto;
+    padding: 20px;
+}
+
+.stu {
+    background-color: white;
+    width: 200px;
+}
+
+footer {
+    background-color: rgb(53, 53, 53);
+    color: whitesmoke;
+    width: 1000px;
+    margin: 20px auto;
+    padding: 20px;
+        }
+
+.kepala {
+    background-color: silver;
+    width: 1000px;
+    margin: 20px auto;
+    padding: 20px;
+}
